@@ -1,7 +1,5 @@
 # FOR ALL COMPETITIVE PROGRAMMERS👨🏻‍💻👩🏻‍💻!
 
-![Uploading FOR.png…]()
-
 
 A few months ago, I started solving coding problems on CodeForces as one of my daily TO-DO list tasks to sharpen my problem-solving skills👌🏻.
 
