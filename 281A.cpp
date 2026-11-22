@@ -12,7 +12,6 @@ https://www.linkedin.com/in/karam-hodali-923774332/
 */
 
 #include <iostream>
-#include <cctype>
 
 using namespace std;
 
